@@ -69,6 +69,16 @@ We built Flow using:
    - Sentiment analysis and emotion detection
    - Actionable policy improvement recommendations
 
-## Our Demo Video
+## Demo Video
 [Watch the demo video](https://drive.google.com/file/d/18K8xbLOcnCQiYvv0XLuFrtQ6p8HKkhNk/view?usp=sharing)
+
+## Initial Project Diagram (Early Version)
+<p align="center">
+  <img src="images/Valley_Water_HR_Agent_1.webp" alt="Flow Logo" width="200" />
+</p>
+
+## Our RoadMap
+<p align="center">
+  <img src="images/road_map.png" alt="Flow Logo" width="400" />
+</p>
 
