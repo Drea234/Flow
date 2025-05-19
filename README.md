@@ -1,7 +1,10 @@
 # Flow
 Valley Water HR Agent, Powered by OpenAI
 
-![Flow Logo](<images/download (4).png>)
+<p align="center">
+  <img src="images/logo.png" alt="Flow Logo" width="200" />
+</p>
+
 
 
 ## Overview
