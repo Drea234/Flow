@@ -79,6 +79,6 @@ We built Flow using:
 
 ## Our RoadMap
 <p align="center">
-  <img src="images/road_map.png" alt="Road Map" width="600" />
+  <img src="images/roadmap.png" alt="Road Map" width="600" />
 </p>
 
