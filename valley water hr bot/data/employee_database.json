@@ -1,0 +1,222 @@
+{
+  "EMP10005": {
+    "name": "Jonathan Le",
+    "position": "Software Engineer",
+    "department": "Engineering",
+    "manager": "John Williams",
+    "hire_date": "2025-03-27",
+    "pto_balance": 1.9,
+    "next_review_date": "2026-05-27",
+    "enrolled_benefits": [
+      "Kaiser HMO",
+      "Delta Dental",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP77625": {
+    "name": "Vincent Shih",
+    "position": "System Operator",
+    "department": "Water Supply",
+    "manager": null,
+    "hire_date": "2014-08-16",
+    "pto_balance": 22.2,
+    "next_review_date": "2026-08-16",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 9%"
+    ]
+  },
+  "EMP52443": {
+    "name": "Sergio Guido",
+    "position": "Communications Specialist",
+    "department": "Communications",
+    "manager": null,
+    "hire_date": "2014-03-22",
+    "pto_balance": 24.5,
+    "next_review_date": "2026-03-22",
+    "enrolled_benefits": [
+      "Kaiser HMO",
+      "Delta Dental",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP77793": {
+    "name": "Que Anh Tran",
+    "position": "Benefits Coordinator",
+    "department": "Human Resources",
+    "manager": null,
+    "hire_date": "2020-02-20",
+    "pto_balance": 19.1,
+    "next_review_date": "2026-02-20",
+    "enrolled_benefits": [
+      "Blue Shield HMO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 9%"
+    ]
+  },
+  "EMP69545": {
+    "name": "Ngoc Tien Cao",
+    "position": "IT Specialist",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2022-08-22",
+    "pto_balance": 17.2,
+    "next_review_date": "2026-08-22",
+    "enrolled_benefits": [
+      "Kaiser HMO",
+      "Delta Dental",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP36811": {
+    "name": "Mary Johnson",
+    "position": "Field Supervisor",
+    "department": "Watershed Operations",
+    "manager": null,
+    "hire_date": "2010-10-16",
+    "pto_balance": 16.7,
+    "next_review_date": "2026-10-16",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP"
+    ]
+  },
+  "EMP74278": {
+    "name": "John Williams",
+    "position": "Project Manager",
+    "department": "Engineering",
+    "manager": "Jonathan Le",
+    "hire_date": "2023-04-12",
+    "pto_balance": 13.0,
+    "next_review_date": "2026-04-12",
+    "enrolled_benefits": [
+      "Blue Shield HMO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP68117": {
+    "name": "Patricia Jones",
+    "position": "Flood Control Specialist",
+    "department": "Watershed Operations",
+    "manager": "Mary Johnson",
+    "hire_date": "2014-09-20",
+    "pto_balance": 4.5,
+    "next_review_date": "2026-09-20",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP45385": {
+    "name": "Robert Brown",
+    "position": "Security Specialist",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2017-07-31",
+    "pto_balance": 20.9,
+    "next_review_date": "2026-07-31",
+    "enrolled_benefits": [
+      "Blue Shield HMO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 3%"
+    ]
+  },
+  "EMP38165": {
+    "name": "Jennifer Davis",
+    "position": "Civil Engineer",
+    "department": "Engineering",
+    "manager": "John Williams",
+    "hire_date": "2015-01-05",
+    "pto_balance": 7.9,
+    "next_review_date": "2026-01-05",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 3%"
+    ]
+  },
+  "EMP69704": {
+    "name": "Michael Miller",
+    "position": "Water Quality Specialist",
+    "department": "Water Supply",
+    "manager": null,
+    "hire_date": "2022-12-23",
+    "pto_balance": 22.7,
+    "next_review_date": "2026-12-23",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP"
+    ]
+  },
+  "EMP22522": {
+    "name": "Linda Wilson",
+    "position": "Paralegal",
+    "department": "Legal",
+    "manager": null,
+    "hire_date": "2021-04-02",
+    "pto_balance": 18.9,
+    "next_review_date": "2026-04-02",
+    "enrolled_benefits": [
+      "Blue Shield HMO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP39174": {
+    "name": "David Moore",
+    "position": "System Administrator",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2022-11-06",
+    "pto_balance": 17.1,
+    "next_review_date": "2026-11-06",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP46273": {
+    "name": "Barbara Taylor",
+    "position": "Project Manager",
+    "department": "Engineering",
+    "manager": "Jonathan Le",
+    "hire_date": "2018-11-13",
+    "pto_balance": 12.8,
+    "next_review_date": "2026-11-13",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 9%"
+    ]
+  },
+  "test": {
+    "name": "Test User",
+    "position": "System Administrator",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2020-01-01",
+    "pto_balance": 15.0,
+    "next_review_date": "2026-01-01",
+    "enrolled_benefits": [
+      "Blue Shield PPO",
+      "Delta Dental",
+      "VSP",
+      "401(k) - 10%"
+    ]
+  }
+}

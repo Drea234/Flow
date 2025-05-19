@@ -1,0 +1,76 @@
+[
+  {
+    "id": "HR-20250425193016",
+    "employee_id": "Unknown",
+    "employee_name": "Test User",
+    "department": "Information Technology",
+    "manager": null,
+    "categories": [
+      "Other"
+    ],
+    "message": "Employee requested immediate HR assistance",
+    "urgency": "Medium",
+    "timestamp": "2025-04-25T19:30:16.204535",
+    "status": "IN_PROGRESS",
+    "assigned_to": "Test User",
+    "resolution_notes": null,
+    "resolved_timestamp": null
+  },
+  {
+    "id": "HR-20250425193224",
+    "employee_id": "Unknown",
+    "employee_name": "Test User",
+    "department": "Information Technology",
+    "manager": null,
+    "categories": [
+      "Other"
+    ],
+    "message": "Employee requested immediate HR assistance",
+    "urgency": "High",
+    "timestamp": "2025-04-25T19:32:24.791473",
+    "status": "IN_PROGRESS",
+    "assigned_to": "Test User",
+    "resolution_notes": null,
+    "resolved_timestamp": null
+  },
+  {
+    "id": "HR-20250426124703",
+    "employee_id": "Unknown",
+    "employee_name": "Jonathan Le",
+    "department": "Engineering",
+    "manager": "John Williams",
+    "categories": [
+      "Other"
+    ],
+    "message": "Employee requested immediate HR assistance ......dkdshkdask",
+    "urgency": "High",
+    "timestamp": "2025-04-26T12:47:03.440592",
+    "status": "OPEN",
+    "assigned_to": null,
+    "resolution_notes": null,
+    "resolved_timestamp": null,
+    "conversation_id": null,
+    "position": "Engineering Manager",
+    "hire_date": "2025-03-27"
+  },
+  {
+    "id": "HR-20250427154842",
+    "employee_id": "Unknown",
+    "employee_name": "Jonathan Le",
+    "department": "Engineering",
+    "manager": "John Williams",
+    "categories": [
+      "Other"
+    ],
+    "message": "Employee requested immediate HR assistance : I got unfair treatment from my manager",
+    "urgency": "Critical",
+    "timestamp": "2025-04-27T15:48:42.788509",
+    "status": "OPEN",
+    "assigned_to": null,
+    "resolution_notes": null,
+    "resolved_timestamp": null,
+    "conversation_id": null,
+    "position": "Software Engineer",
+    "hire_date": "2025-03-27"
+  }
+]

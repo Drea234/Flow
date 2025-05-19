@@ -1,0 +1,73 @@
+{
+  "report_date": "2025-04-20",
+  "date_range": "Last 30 days",
+  "statistics": {
+    "total_conversations": 33,
+    "unique_employees": 4,
+    "conversations_last_7_days": 33,
+    "avg_answer_length": 845.6363636363636,
+    "conversation_threads": 7
+  },
+  "trends": [
+    {
+      "day": "2025-04-15",
+      "count": 6
+    },
+    {
+      "day": "2025-04-16",
+      "count": 24
+    },
+    {
+      "day": "2025-04-19",
+      "count": 2
+    },
+    {
+      "day": "2025-04-20",
+      "count": 1
+    }
+  ],
+  "top_employees": [
+    {
+      "employee_id": "test",
+      "employee_name": "Test User",
+      "thread_count": 3,
+      "message_count": 22
+    },
+    {
+      "employee_id": "EMP21519",
+      "employee_name": "Ashley Wilson",
+      "thread_count": 2,
+      "message_count": 8
+    },
+    {
+      "employee_id": "EMP48498",
+      "employee_name": "Richard Mitchell",
+      "thread_count": 1,
+      "message_count": 1
+    },
+    {
+      "employee_id": "EMP37857",
+      "employee_name": "Christopher Martinez",
+      "thread_count": 1,
+      "message_count": 2
+    }
+  ],
+  "top_topics": [
+    {
+      "name": "Category: Policies",
+      "count": 12
+    },
+    {
+      "name": "Category: Benefits",
+      "count": 10
+    },
+    {
+      "name": "Category: Time Off",
+      "count": 7
+    },
+    {
+      "name": "Category: Compensation",
+      "count": 4
+    }
+  ]
+}

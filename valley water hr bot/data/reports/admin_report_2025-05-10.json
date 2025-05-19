@@ -1,0 +1,177 @@
+{
+  "report_date": "2025-05-10",
+  "date_range": "Last 30 days",
+  "statistics": {
+    "total_conversations": 72,
+    "unique_employees": 7,
+    "conversations_last_7_days": 5,
+    "avg_answer_length": 1138.7916666666667,
+    "conversation_threads": 26,
+    "department_count": 4
+  },
+  "trends": [
+    {
+      "day": "2025-04-15",
+      "count": 6
+    },
+    {
+      "day": "2025-04-16",
+      "count": 24
+    },
+    {
+      "day": "2025-04-19",
+      "count": 2
+    },
+    {
+      "day": "2025-04-20",
+      "count": 12
+    },
+    {
+      "day": "2025-04-25",
+      "count": 17
+    },
+    {
+      "day": "2025-04-26",
+      "count": 2
+    },
+    {
+      "day": "2025-04-27",
+      "count": 4
+    },
+    {
+      "day": "2025-05-06",
+      "count": 2
+    },
+    {
+      "day": "2025-05-10",
+      "count": 3
+    }
+  ],
+  "top_employees": [
+    {
+      "employee_id": "test",
+      "employee_name": "Test User",
+      "thread_count": 12,
+      "message_count": 41
+    },
+    {
+      "employee_id": "EMP10005",
+      "employee_name": "Jonathan Le",
+      "thread_count": 5,
+      "message_count": 6
+    },
+    {
+      "employee_id": "EMP81467",
+      "employee_name": "Michael Gonzalez",
+      "thread_count": 2,
+      "message_count": 6
+    },
+    {
+      "employee_id": "EMP48498",
+      "employee_name": "Richard Mitchell",
+      "thread_count": 2,
+      "message_count": 2
+    },
+    {
+      "employee_id": "EMP37857",
+      "employee_name": "Christopher Martinez",
+      "thread_count": 2,
+      "message_count": 5
+    },
+    {
+      "employee_id": "EMP21519",
+      "employee_name": "Ashley Wilson",
+      "thread_count": 2,
+      "message_count": 8
+    },
+    {
+      "employee_id": "EMP77793",
+      "employee_name": "Que Anh Tran",
+      "thread_count": 1,
+      "message_count": 4
+    }
+  ],
+  "top_topics": [
+    {
+      "name": "Category: Benefits",
+      "count": 29
+    },
+    {
+      "name": "Category: Policies",
+      "count": 16
+    },
+    {
+      "name": "Category: Time Off",
+      "count": 12
+    },
+    {
+      "name": "Category: Compensation",
+      "count": 8
+    },
+    {
+      "name": "Error",
+      "count": 2
+    },
+    {
+      "name": "Category: Emergency",
+      "count": 2
+    },
+    {
+      "name": "Category: Procedures",
+      "count": 1
+    },
+    {
+      "name": "Category: Other",
+      "count": 1
+    },
+    {
+      "name": "Category: Career Development",
+      "count": 1
+    }
+  ],
+  "emergency_tickets": {
+    "open_count": 2,
+    "tickets": [
+      {
+        "id": "HR-20250427154842",
+        "employee_id": "Unknown",
+        "employee_name": "Jonathan Le",
+        "department": "Engineering",
+        "manager": "John Williams",
+        "categories": [
+          "Other"
+        ],
+        "message": "Employee requested immediate HR assistance : I got unfair treatment from my manager",
+        "urgency": "Critical",
+        "timestamp": "2025-04-27T15:48:42.788509",
+        "status": "OPEN",
+        "assigned_to": null,
+        "resolution_notes": null,
+        "resolved_timestamp": null,
+        "conversation_id": null,
+        "position": "Software Engineer",
+        "hire_date": "2025-03-27"
+      },
+      {
+        "id": "HR-20250426124703",
+        "employee_id": "Unknown",
+        "employee_name": "Jonathan Le",
+        "department": "Engineering",
+        "manager": "John Williams",
+        "categories": [
+          "Other"
+        ],
+        "message": "Employee requested immediate HR assistance ......dkdshkdask",
+        "urgency": "High",
+        "timestamp": "2025-04-26T12:47:03.440592",
+        "status": "OPEN",
+        "assigned_to": null,
+        "resolution_notes": null,
+        "resolved_timestamp": null,
+        "conversation_id": null,
+        "position": "Engineering Manager",
+        "hire_date": "2025-03-27"
+      }
+    ]
+  }
+}
