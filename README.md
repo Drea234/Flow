@@ -74,7 +74,7 @@ We built Flow using:
 
 ## Initial Project Diagram (Early Version)
 <p align="center">
-  <img src="Valley Water HR Agent (2).png" alt="Project Diagram" width="600" />
+  <img src="images/Valley Water HR Agent (2).png" alt="Project Diagram" width="600" />
 </p>
 
 ## Our RoadMap
