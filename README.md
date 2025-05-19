@@ -74,11 +74,11 @@ We built Flow using:
 
 ## Initial Project Diagram (Early Version)
 <p align="center">
-  <img src="images/Valley_Water_HR_Agent_1.webp" alt="Flow Logo" width="600" />
+  <img src="Valley Water HR Agent (2).png" alt="Project Diagram" width="600" />
 </p>
 
 ## Our RoadMap
 <p align="center">
-  <img src="images/road_map.png" alt="Flow Logo" width="600" />
+  <img src="images/road_map.png" alt="Road Map" width="600" />
 </p>
 
