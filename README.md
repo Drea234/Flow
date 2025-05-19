@@ -69,5 +69,5 @@ We built Flow using:
    - Sentiment analysis and emotion detection
    - Actionable policy improvement recommendations
 
-## Demo Video
-[![Watch the demo](/teampic.png)](https://www.youtube.com/watch?v=Rqd5e7HYspU)
+## Our Demo Video
+[Watch the demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
