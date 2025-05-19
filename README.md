@@ -77,7 +77,7 @@ We built Flow using:
   <img src="images/Valley Water HR Agent (2).png" alt="Project Diagram" width="600" />
 </p>
 
-## Our RoadMap
+## Our Road Map
 <p align="center">
   <img src="images/Roadmap.png" alt="Road Map" width="800" />
 </p>
