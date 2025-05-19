@@ -9,7 +9,7 @@ Valley Water HR Agent, Powered by OpenAI
 
 ## Overview
 
-An AI-powered chatbot that provides Valley Water employees with 24/7 HR support while equipping administrators with real-time analytics to improve workforce management.
+An AI-powered HR Agent that provides Valley Water employees with 24/7 HR support while equipping administrators with real-time analytics to improve workforce management.
 
 ## What is Flow?
 
