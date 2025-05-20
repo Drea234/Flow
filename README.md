@@ -69,6 +69,19 @@ We built Flow using:
    - Sentiment analysis and emotion detection
    - Actionable policy improvement recommendations
 
+## My Responsibilities
+- Creating the emergency ticket management system
+- Implementing risk detection algorithms for employee conversations
+- Building AI-generated recommendations for HR actions
+- Developing automated insight generation from conversation data
+- Implementing department-specific analytics
+- Building emergency escalation and notification systems
+- Creating topic classification and analysis algorithms
+- Developing conversation metadata extraction (topics, summaries)
+- Implementing deep sentiment analysis algorithms
+- Building emergency ticket resolution workflows
+
+
 ## Demo Video
 [Watch the demo video](https://drive.google.com/file/d/18K8xbLOcnCQiYvv0XLuFrtQ6p8HKkhNk/view?usp=sharing)
 
